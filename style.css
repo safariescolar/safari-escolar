@@ -7,11 +7,13 @@ body {
 /* Encabezado con estilo moderno */
 header {
     der {
-    background-color: #3a4412; 
-    padding: 2rem;
+    r {
+    background-color: #1a1a1a; 
+    color: #4B5718;          
+    padding: 30px;
     text-align: center;
+    border-bottom: 2px solid #4B5718; 
 
-/* Contenedor principal */
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -34,4 +36,5 @@ footer {
     color: #777;
 
 }
+
 
