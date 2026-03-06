@@ -1,9 +1,7 @@
 /* Configuración general */
 body {
-    background-color: #4B5718;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 /* Encabezado con estilo moderno */
@@ -36,3 +34,4 @@ footer {
     color: #777;
 
 }
+
