@@ -1,7 +1,9 @@
 /* Configuración general */
 body {
-    background-color: #000000;
+    body {
+    background-color: #000000 
     color: #ffffff;
+}
 }
 
 /* Encabezado con estilo moderno */
@@ -36,5 +38,6 @@ footer {
     color: #777;
 
 }
+
 
 
