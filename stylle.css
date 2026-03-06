@@ -1,19 +1,17 @@
 /* Configuración general */
 body {
+    background-color: #4B5718;
+    color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
     margin: 0;
-    color: #333;
-    background-color: #f4f4f9;
 }
 
 /* Encabezado con estilo moderno */
 header {
-    background: #2c3e50;
-    color: white;
+    der {
+    background-color: #3a4412; 
     padding: 2rem;
     text-align: center;
-}
 
 /* Contenedor principal */
 main {
@@ -36,4 +34,5 @@ footer {
     padding: 20px;
     font-size: 0.8rem;
     color: #777;
+
 }
